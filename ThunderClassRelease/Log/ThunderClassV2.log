@@ -1,0 +1,18 @@
+[Debug] [2020-06-21 14:58:41]  [: Line: 0]  [Function: ] 
+Message: TP: Created
+[Debug] [2020-06-21 14:58:49]  [: Line: 0]  [Function: ] 
+Message: TP: open server
+[Debug] [2020-06-21 14:58:49]  [: Line: 0]  [Function: ] 
+Message: TP: class begin
+[Warning] [2020-06-21 14:58:56]  [: Line: 0]  [Function: ] 
+Message: QObject::connect: No such slot QuizWindow::QuizTime()
+[Warning] [2020-06-21 14:58:56]  [: Line: 0]  [Function: ] 
+Message: QObject::connect:  (receiver name: 'QuizWindow')
+[Warning] [2020-06-22 01:40:07]  [: Line: 0]  [Function: ] 
+Message: QObject::connect: No such slot AdminWindow::TimerEvent()
+[Warning] [2020-06-22 01:40:07]  [: Line: 0]  [Function: ] 
+Message: QObject::connect:  (receiver name: 'AdminWindow')
+[Debug] [2020-06-22 01:40:46]  [: Line: 0]  [Function: ] 
+Message: SP: Created
+[Debug] [2020-06-22 01:40:52]  [: Line: 0]  [Function: ] 
+Message: SP: trying to connect to server @  "127.0.0.1"
